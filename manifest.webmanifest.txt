@@ -1,0 +1,22 @@
+{
+  "name": "PHDU MedCore",
+  "short_name": "MedCore",
+  "description": "PHDU MedCore clinical reference application",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#02111d",
+  "theme_color": "#02111d",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/pediatrichighdependency-debug/phdu-medcore-assets/main/PHDU-MedCore-Home-Screen-Icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/pediatrichighdependency-debug/phdu-medcore-assets/main/PHDU-MedCore-Home-Screen-Icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
